@@ -1,6 +1,6 @@
 # Summary
   
- The following county data was compiled from the U.S. Census Bureau's TIGER 2014 data extract.  The national file was clipped to the Bay Watershed to extract all zipcodes within the drainage basin.
+ The following county data was compiled from the U.S. Census Bureau's TIGER 2014 data extract.  The national file was clipped to the Bay Watershed to extract all counties within the drainage basin.
 
  <strong>TIGER</strong> = Topologically Integrated Geographic Encoding and Referencing
 
